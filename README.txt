@@ -14,7 +14,7 @@ as a .csv (ensure that the values are delimited by a comma [,])
 
 3. Run the automarker script with the .csv file passed as a parameter
 
-	./automark.sh MarkTemplate.csv
+	./automarker.sh MarkingTemplate.csv
 
 
 4. The text files should be in the folder that the script creates called
